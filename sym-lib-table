@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name 7z010_ddr)(type Legacy)(uri ${KIPRJMOD}/7z010_ddr/7z010_ddr.lib)(options "")(descr ""))
+  (lib (name segata)(type Legacy)(uri ${KIPRJMOD}/segata.lib)(options "")(descr ""))
+  (lib (name wasca)(type Legacy)(uri ${KIPRJMOD}/wasca.lib)(options "")(descr ""))
 )
